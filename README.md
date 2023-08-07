@@ -25,7 +25,7 @@ This Python project presents an interactive implementation of the classic Tic-Ta
 
 3. Run the game:
    ```bash
-   python tictactoe.py
+   python tictactoe_ai.py
    ```
 
 4. Play against the AI and experience the challenge of strategic AI moves.
