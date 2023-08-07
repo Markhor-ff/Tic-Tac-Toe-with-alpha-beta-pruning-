@@ -15,7 +15,7 @@ This Python project presents an interactive implementation of the classic Tic-Ta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Markho-ff/TicTacToe-AI-AlphaBeta.git
+   git clone https://github.com/Markhor-ff/Tic-Tac-Toe-with-alpha-beta-pruning-/
    ```
 
 2. Navigate to the project directory:
